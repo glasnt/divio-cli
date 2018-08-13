@@ -11,6 +11,7 @@ Remove-Item -Recurse -Force -ErrorAction SilentlyContinue divio_cli.egg-info
 Remove-Item -Recurse -Force -ErrorAction SilentlyContinue $VENV
 
 # create new venv
+C:\Python27\Scripts\pip.exe list
 C:\Python27\Scripts\pip.exe install --upgrade pip
 C:\Python27\Scripts\pip.exe install virtualenv
 C:\Python27\Scripts\virtualenv.exe $VENV
