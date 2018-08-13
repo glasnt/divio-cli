@@ -24,6 +24,10 @@ All of the binaries have to be built on the operating systems they're being buil
 
 Currently only support for native builds 
 
+## Windows
+
+Via [Appveyor](https://appveyor.com)
+
 ### Build
 
 ```bash
