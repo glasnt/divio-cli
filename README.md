@@ -26,7 +26,7 @@ Currently only support for native builds
 
 ## Windows
 
-Via [Appveyor](https://appveyor.com)
+via [Appveyor](https://appveyor.com)
 
 ### Build
 
